@@ -1,0 +1,7 @@
+{
+    "checks": [
+        {
+            "check": "checkFileNames"
+        }
+    ]
+}
